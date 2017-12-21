@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sample</groupId>
-    <artifactId>spark-microservice</artifactId>
+    <artifactId>microservice-spark</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
